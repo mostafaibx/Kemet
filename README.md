@@ -1,6 +1,6 @@
 # Kemet
 
-A project made using CSS3, HTML5, and Vanilla JavaScript.
+A learning project made using CSS3, HTML5, and Vanilla JavaScript.
 
 I used this project to apply some basic knowledge of JavaScript, CSS and HTML
 
@@ -12,12 +12,13 @@ I used this project to apply some basic knowledge of JavaScript, CSS and HTML
  - mediaquery for responsive design.
  - Psudo elements to adjust some elements borders.
  - Psudo classes to change style elements on Hover.
+
 - JS is used to give some responses to user actions using:
-       - document functions e.g.: querySelector, querySelectorAll.
-       - window functions e.g.: innerHeight, innerHeight.
-       - eventListeners.
-       - array functions e.g.: map, filter.
-       - customized function e.g. arrow functions, anonymous functions.
-       - regular expression to extract values of HTML attribute Also getAttribute.
-       - if statments for conditions.
-       - for loops.
+ - document functions e.g.: querySelector, querySelectorAll.
+ - window functions e.g.: innerHeight, innerHeight.
+ - eventListeners.
+ - array functions e.g.: map, filter.
+ - customized function e.g. arrow functions, anonymous functions.
+ - regular expression to extract values of HTML attribute Also getAttribute.
+ - if statments for conditions.
+ - for loops.
