@@ -1,10 +1,11 @@
-### Kemet
+# Kemet
 
-A learning project made using CSS3, HTML5, and Vanilla JavaScript.
+### A learning project made using CSS3, HTML5, and Vanilla JavaScript.
 
-I used this project to apply some basic knowledge of JavaScript, CSS and HTML
+####I used this project to apply some basic knowledge of JavaScript, CSS and HTML
 
 - HTML is used to build the components of the web page in a separate file using diffrent HTML tags, and used nesting for styling purposes.
+  
 - CSS3 is used to style the web page using:
  - var() to use variable in root for easier change of the repeated values e.g. colors, diminsions.
  - flex & grid for layouts.
