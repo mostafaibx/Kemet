@@ -1,4 +1,4 @@
-# Kemet
+### Kemet
 
 A learning project made using CSS3, HTML5, and Vanilla JavaScript.
 
